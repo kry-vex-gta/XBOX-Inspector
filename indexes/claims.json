@@ -1,0 +1,986 @@
+{
+ "schema": "xbox-inspector-claims/1",
+ "provenance": "SimuXBOX 0.1.0 Unified_Recovery_Tools/Claims.json (snapshot-bound)",
+ "claims": [
+  {
+   "path": "data/ttdb/graphics/ttdb_graphics.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 34411776,
+   "sha256": "0b23f3f4ea9f63d8bb8abd835fb15b584fbc63a2b2f9cdbb6f675d78db16cb7e"
+  },
+  {
+   "path": "data/ttdb/interiors/ttdb_interiors_0_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 883202048,
+   "sha256": "5f109fcd493235e271c0106c9da92a27de1e48d809a18a5d2af8c2183bb23516"
+  },
+  {
+   "path": "data/ttdb/interiors/ttdb_interiors_1_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 898113536,
+   "sha256": "3598c14ad6b1df887b21b3f8685be2ab8a060264ca3f8db3829d3f4bc0863b8c"
+  },
+  {
+   "path": "data/ttdb/interiors/ttdb_interiors_2_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 881431552,
+   "sha256": "b8616380028bb8fe027c46c0a225793e5814a6639afb9d90dede4acabfde2004"
+  },
+  {
+   "path": "data/ttdb/interiors/ttdb_interiors_3_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 900875008,
+   "sha256": "d284d983873bc726b68c36ea85d0fd8c3a7c8ae58be049c981218eed00f614ba"
+  },
+  {
+   "path": "data/ttdb/lighting/lighting.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 151531776,
+   "sha256": "87727791b5026439d8f0b3bcceeae02b074fda9670270cac9bc248ffac16e3ca"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_0_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1765679616,
+   "sha256": "d672e99c248b943c3a3acb694eb16fe6236d3d9d04c86451cf68259ca68d4409"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_1_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1746187776,
+   "sha256": "df9f32bb42168ac0abf9e44573d837186107d5d3dc926a0cf597750f6cae112f"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_2_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1818806528,
+   "sha256": "2ca6dd82a842990b6a2c3440936b443808a6d98bf6b540048978591bdc23b7c0"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_3_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1787349760,
+   "sha256": "f90577103ef7986ba7ae4d190782bf73378d4e0e5be6f9664ea3fc3f3088255e"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_4_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1791670784,
+   "sha256": "ccc48a1662467b78423d3f83220e3bc4f4ae36c32a873d09344d48c1faab9760"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_5_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1840029440,
+   "sha256": "16229da15fb88d8a76dceadfb0cacb852144878960a7584b3345051d351c9c3c"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_6_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1745923072,
+   "sha256": "b852c332f5474a3631e13c708f2233b27668065d8a9ee751155efb98e27a3a6e"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_7_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1755748608,
+   "sha256": "27be3cf33f23326b9dec29692788e8ee75f73ce0050c23307600dbd067964de5"
+  },
+  {
+   "path": "data/ttdb/peds/decorations_0_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 494316032,
+   "sha256": "31246c91ea208b2b58809cb5bd82c5e0c044c88ae4198831aab727584675b0f3"
+  },
+  {
+   "path": "data/ttdb/peds/decorations_1_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 510001152,
+   "sha256": "baf71941408cf65f9aed0335a737783f62ca1899f863322d89f9a990bcb7f0e3"
+  },
+  {
+   "path": "data/ttdb/peds/decorations_2_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 491507456,
+   "sha256": "5c622d5a00f0f84125edc3c84061a4f97d57dd695ec6a286657f7135445cb3c6"
+  },
+  {
+   "path": "data/ttdb/peds/decorations_3_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 497391360,
+   "sha256": "aeabd38813f8af5582aad43e84b0a0262ef187d03115483764433ad5b1f848df"
+  },
+  {
+   "path": "data/ttdb/peds/peds_loose.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 135676160,
+   "sha256": "0c7ad96cf458be86c38f1cbdbc067f93ea444eda4a88c72b16d0ecdfcc91e311"
+  },
+  {
+   "path": "data/ttdb/peds/ttdb_peds_0_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 953116416,
+   "sha256": "73891cde5598e26e4dda53971d45d91c749e3d54dc2afe93bee9885344ea3dde"
+  },
+  {
+   "path": "data/ttdb/peds/ttdb_peds_1_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 965556736,
+   "sha256": "b37dcb845e9143409879de2b7fddf82d38a736d07041082648a7f718f9583faa"
+  },
+  {
+   "path": "data/ttdb/peds/ttdb_peds_2_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 937699072,
+   "sha256": "8ebca98d174266f5cf18cb50cc3c5ca5e7ecdbc84604f352bb6ff4fb05f9c2ef"
+  },
+  {
+   "path": "data/ttdb/peds/ttdb_peds_3_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 957291520,
+   "sha256": "3f9d03d67978f5454a927266c7f866f20c700bb753a83f5cbc7182a398618eeb"
+  },
+  {
+   "path": "data/ttdb/props/octa_imposters.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 983620352,
+   "sha256": "03a7d6dd60da98871228b1ec06a93d4a00387143dd20f123c0408087385f203c"
+  },
+  {
+   "path": "data/ttdb/props/ttdb_props_0_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1304458240,
+   "sha256": "8e620456a4a296faf8be5632a8d929df590be1efeee7d5ce34059726a0ac65f4"
+  },
+  {
+   "path": "data/ttdb/props/ttdb_props_1_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1256908800,
+   "sha256": "3cba53b0fa123e39597e8331fe4b432294fcf32baebb94f9db47a52f1b46ac4d"
+  },
+  {
+   "path": "data/ttdb/props/ttdb_props_2_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1239990784,
+   "sha256": "6999079496270431dfb6df46a6406f721cfb4331e418bab6c6facb962f4d288f"
+  },
+  {
+   "path": "data/ttdb/props/ttdb_props_3_3.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1328911616,
+   "sha256": "7633d784b6e77258f8d576777633fc72eebbff004c1640ee27d53773ced83639"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_0_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 2775084288,
+   "sha256": "6de6efac9d3d7b862548b3d0aee352b086c2e01ebcf8cda8ede617afb495187f"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_1_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 2739444480,
+   "sha256": "e1f5139ed75d6781754737cf277981aa5c3afea5d2d06e7dcd57a36fb4ff505c"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_2_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 2780145920,
+   "sha256": "40b157a43413359fafef667aab1a6ec53d2c078c50fe24292678c3d1b33ede9a"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_3_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 2718679808,
+   "sha256": "5799083008834d706e6b3606b647abfbfa6068574c96f3803ad957013bb4eb1a"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_4_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 2741339648,
+   "sha256": "18c6ce167de25a1cea110401da7c2ce679106f7766df0b7af2668cba7a1ab25b"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_5_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 2674379008,
+   "sha256": "60bcba6a7f3a658cec51232cc48098cf86a6e54d37f21ab9401b2a76e2a6ea53"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_6_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 2688808960,
+   "sha256": "553961eff42fb8deb7cf7330d303e843b88ab29c87ab30b85cdd0c0501d1fc14"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_7_7.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 2828296704,
+   "sha256": "dc887908067d49d9bd05c40029f7248a6bbf76fe79f34abea0199dd6a7edf244"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_image_based_0_1.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1946070528,
+   "sha256": "30a3020d15d4d159b06aa9fd31508a534c79d9990de215bf20d2572ec2713995"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_image_based_1_1.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1890978048,
+   "sha256": "1e0afca572034adebc2899e733546fb12a620acd10b32a4c21fbcc5926abed69"
+  },
+  {
+   "path": "data/ttdb/ui/platform.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 222976,
+   "sha256": "3e64d01e062ed55d290aaf3a7b9694d562a8591cf461e638dd135d388d4b5e5c"
+  },
+  {
+   "path": "data/ttdb/ui/ttdb_ui.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 845115648,
+   "sha256": "dc983ed7f6b78d1693fa5757f17c03bafb790e851594fdf4d412579b61d867f6"
+  },
+  {
+   "path": "data/ttdb/vehicles/ttdb_vehicles.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 195418624,
+   "sha256": "02add8dc1c4f8f485ef8abc5b4480b746e24fa4a546eb488ec37ff1b4d3c4e34"
+  },
+  {
+   "path": "data/ttdb/vehicles/ttdb_vehicles_loose_0_1.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 838474496,
+   "sha256": "0e90a8dbda5e32fb6c47a4ecabf821451a59abd349755c8030c380d4a9e9f834"
+  },
+  {
+   "path": "data/ttdb/vehicles/ttdb_vehicles_loose_1_1.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 890206208,
+   "sha256": "a3aae83237fedd1f7c32e8ab2adc8bf9a87d8b019a2242c5181547714b00f8cc"
+  },
+  {
+   "path": "data/ttdb/vfx/ttdb_vfx.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 238897664,
+   "sha256": "7625184c4e9c899f3b708b88d61fa2e12b836db63640385cecd750cb30c8f26e"
+  },
+  {
+   "path": "data/ttdb/weapons/ttdb_weapons.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1421518080,
+   "sha256": "41c4fc92143fc26e44dcb4ca93142b914f9ac1188f9b53cbf8db27c6a97b6d4c"
+  },
+  {
+   "path": "data/ttdb/weapons/weapon_liveries.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 739758848,
+   "sha256": "7cae5a1ce890e7a4d452387f4dcb4ebde8e3e3b905409d7ed33903203a348ba5"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/peds/ttdb_peds.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 24529408,
+   "sha256": "b3514f9b1fe258141f7b5d840fc753e980a2af59749a1f8d4de0867e93cf5c97"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/props/ttdb_props.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 35286784,
+   "sha256": "eaf45801f0a0b0407ff41d5e840a27f9cfce144e1a4798ca293003a484e2c0ee"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/textures_loose.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 21081856,
+   "sha256": "81da4d1904dd038ea59fb5d7b851e2a15b1906a5ff3017f1bd15dd617d46c3dc"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/ui/ttdb_ui.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 4729600,
+   "sha256": "9df804569a50dfe7d1a0f8ef71fa9a117a370616159489e9028f5acfd5118d66"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/vfx/ttdb_vfx.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 3129600,
+   "sha256": "6434287056329e60a4ca7ae26fabf91dc3ccf3b738130033400fb88ab42da8cf"
+  },
+  {
+   "path": "pack/core_restofworld001/data/ttdb/ui/ttdb_ui.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 38656,
+   "sha256": "9bfb5f4b85be2f6d1d93b2ed83df94a2021346448816b61fd9c08d7d05b8a43c"
+  },
+  {
+   "path": "pack/shared_minigame000/data/ttdb/maps/ttdb_maps.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 193522176,
+   "sha256": "873a8c7634eacaa062a1bc48888908f3e2d3196159b9fa39e83eb6cfc18dbb06"
+  },
+  {
+   "path": "pack/shared_minigame000/data/ttdb/terrain/ttdb_terrain_image_based.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 1427712,
+   "sha256": "0354565963b8472bf2f606dc1a4089c14f45cb5ecd416984f5e4212009eb7e74"
+  },
+  {
+   "path": "pack/story000/data/ttdb/maps/ttdb_maps.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 697378560,
+   "sha256": "8e362c1f39383d6ff97eeffbf963602e9ed2e2b97b707e54a3884fe7c8dd408d"
+  },
+  {
+   "path": "pack/story000/data/ttdb/terrain/ttdb_terrain_image_based.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 222333440,
+   "sha256": "4794cbff80790c7a0b3d2959f3831b53e90c5b56b9bdb61814f98f29a4e4157f"
+  },
+  {
+   "path": "pack/story000/data/ttdb/vfx/ttdb_vfx.ttpf",
+   "label": "textures-baseline",
+   "start": 0,
+   "end": 3357184,
+   "sha256": "79612738f51faa724cb6d30ad5465419f3038d4b3498115ec1306b0ad7d71f1c"
+  },
+  {
+   "path": "data/ttdb/graphics/ttdb_graphics.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 34411776,
+   "sha256": "0b23f3f4ea9f63d8bb8abd835fb15b584fbc63a2b2f9cdbb6f675d78db16cb7e"
+  },
+  {
+   "path": "data/ttdb/interiors/ttdb_interiors_0_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 883202048,
+   "sha256": "5f109fcd493235e271c0106c9da92a27de1e48d809a18a5d2af8c2183bb23516"
+  },
+  {
+   "path": "data/ttdb/interiors/ttdb_interiors_1_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 898113536,
+   "sha256": "3598c14ad6b1df887b21b3f8685be2ab8a060264ca3f8db3829d3f4bc0863b8c"
+  },
+  {
+   "path": "data/ttdb/interiors/ttdb_interiors_2_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 881431552,
+   "sha256": "b8616380028bb8fe027c46c0a225793e5814a6639afb9d90dede4acabfde2004"
+  },
+  {
+   "path": "data/ttdb/interiors/ttdb_interiors_3_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 900875008,
+   "sha256": "d284d983873bc726b68c36ea85d0fd8c3a7c8ae58be049c981218eed00f614ba"
+  },
+  {
+   "path": "data/ttdb/lighting/lighting.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 151531776,
+   "sha256": "87727791b5026439d8f0b3bcceeae02b074fda9670270cac9bc248ffac16e3ca"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_0_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1765679616,
+   "sha256": "d672e99c248b943c3a3acb694eb16fe6236d3d9d04c86451cf68259ca68d4409"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_1_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1746187776,
+   "sha256": "df9f32bb42168ac0abf9e44573d837186107d5d3dc926a0cf597750f6cae112f"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_2_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1818806528,
+   "sha256": "2ca6dd82a842990b6a2c3440936b443808a6d98bf6b540048978591bdc23b7c0"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_3_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1787349760,
+   "sha256": "f90577103ef7986ba7ae4d190782bf73378d4e0e5be6f9664ea3fc3f3088255e"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_4_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1791670784,
+   "sha256": "ccc48a1662467b78423d3f83220e3bc4f4ae36c32a873d09344d48c1faab9760"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_5_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1840029440,
+   "sha256": "16229da15fb88d8a76dceadfb0cacb852144878960a7584b3345051d351c9c3c"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_6_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1745923072,
+   "sha256": "b852c332f5474a3631e13c708f2233b27668065d8a9ee751155efb98e27a3a6e"
+  },
+  {
+   "path": "data/ttdb/maps/ttdb_maps_7_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1755748608,
+   "sha256": "27be3cf33f23326b9dec29692788e8ee75f73ce0050c23307600dbd067964de5"
+  },
+  {
+   "path": "data/ttdb/peds/decorations_0_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 494316032,
+   "sha256": "31246c91ea208b2b58809cb5bd82c5e0c044c88ae4198831aab727584675b0f3"
+  },
+  {
+   "path": "data/ttdb/peds/decorations_1_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 510001152,
+   "sha256": "baf71941408cf65f9aed0335a737783f62ca1899f863322d89f9a990bcb7f0e3"
+  },
+  {
+   "path": "data/ttdb/peds/decorations_2_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 491507456,
+   "sha256": "5c622d5a00f0f84125edc3c84061a4f97d57dd695ec6a286657f7135445cb3c6"
+  },
+  {
+   "path": "data/ttdb/peds/decorations_3_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 497391360,
+   "sha256": "aeabd38813f8af5582aad43e84b0a0262ef187d03115483764433ad5b1f848df"
+  },
+  {
+   "path": "data/ttdb/peds/peds_loose.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 135676160,
+   "sha256": "0c7ad96cf458be86c38f1cbdbc067f93ea444eda4a88c72b16d0ecdfcc91e311"
+  },
+  {
+   "path": "data/ttdb/peds/ttdb_peds_0_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 953116416,
+   "sha256": "73891cde5598e26e4dda53971d45d91c749e3d54dc2afe93bee9885344ea3dde"
+  },
+  {
+   "path": "data/ttdb/peds/ttdb_peds_1_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 965556736,
+   "sha256": "b37dcb845e9143409879de2b7fddf82d38a736d07041082648a7f718f9583faa"
+  },
+  {
+   "path": "data/ttdb/peds/ttdb_peds_2_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 937699072,
+   "sha256": "8ebca98d174266f5cf18cb50cc3c5ca5e7ecdbc84604f352bb6ff4fb05f9c2ef"
+  },
+  {
+   "path": "data/ttdb/peds/ttdb_peds_3_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 957291520,
+   "sha256": "3f9d03d67978f5454a927266c7f866f20c700bb753a83f5cbc7182a398618eeb"
+  },
+  {
+   "path": "data/ttdb/props/octa_imposters.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 983620352,
+   "sha256": "03a7d6dd60da98871228b1ec06a93d4a00387143dd20f123c0408087385f203c"
+  },
+  {
+   "path": "data/ttdb/props/ttdb_props_0_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1304458240,
+   "sha256": "8e620456a4a296faf8be5632a8d929df590be1efeee7d5ce34059726a0ac65f4"
+  },
+  {
+   "path": "data/ttdb/props/ttdb_props_1_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1256908800,
+   "sha256": "3cba53b0fa123e39597e8331fe4b432294fcf32baebb94f9db47a52f1b46ac4d"
+  },
+  {
+   "path": "data/ttdb/props/ttdb_props_2_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1239990784,
+   "sha256": "6999079496270431dfb6df46a6406f721cfb4331e418bab6c6facb962f4d288f"
+  },
+  {
+   "path": "data/ttdb/props/ttdb_props_3_3.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1328911616,
+   "sha256": "7633d784b6e77258f8d576777633fc72eebbff004c1640ee27d53773ced83639"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_0_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 2775084288,
+   "sha256": "6de6efac9d3d7b862548b3d0aee352b086c2e01ebcf8cda8ede617afb495187f"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_1_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 2739444480,
+   "sha256": "e1f5139ed75d6781754737cf277981aa5c3afea5d2d06e7dcd57a36fb4ff505c"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_2_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 2780145920,
+   "sha256": "40b157a43413359fafef667aab1a6ec53d2c078c50fe24292678c3d1b33ede9a"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_3_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 2718679808,
+   "sha256": "5799083008834d706e6b3606b647abfbfa6068574c96f3803ad957013bb4eb1a"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_4_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 2741339648,
+   "sha256": "18c6ce167de25a1cea110401da7c2ce679106f7766df0b7af2668cba7a1ab25b"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_5_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 2674379008,
+   "sha256": "60bcba6a7f3a658cec51232cc48098cf86a6e54d37f21ab9401b2a76e2a6ea53"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_6_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 2688808960,
+   "sha256": "553961eff42fb8deb7cf7330d303e843b88ab29c87ab30b85cdd0c0501d1fc14"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_7_7.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 2828296704,
+   "sha256": "dc887908067d49d9bd05c40029f7248a6bbf76fe79f34abea0199dd6a7edf244"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_image_based_0_1.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1946070528,
+   "sha256": "30a3020d15d4d159b06aa9fd31508a534c79d9990de215bf20d2572ec2713995"
+  },
+  {
+   "path": "data/ttdb/terrain/ttdb_terrain_image_based_1_1.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1890978048,
+   "sha256": "1e0afca572034adebc2899e733546fb12a620acd10b32a4c21fbcc5926abed69"
+  },
+  {
+   "path": "data/ttdb/ui/platform.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 222976,
+   "sha256": "3e64d01e062ed55d290aaf3a7b9694d562a8591cf461e638dd135d388d4b5e5c"
+  },
+  {
+   "path": "data/ttdb/ui/ttdb_ui.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 845115648,
+   "sha256": "dc983ed7f6b78d1693fa5757f17c03bafb790e851594fdf4d412579b61d867f6"
+  },
+  {
+   "path": "data/ttdb/vehicles/ttdb_vehicles.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 195418624,
+   "sha256": "02add8dc1c4f8f485ef8abc5b4480b746e24fa4a546eb488ec37ff1b4d3c4e34"
+  },
+  {
+   "path": "data/ttdb/vehicles/ttdb_vehicles_loose_0_1.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 838474496,
+   "sha256": "0e90a8dbda5e32fb6c47a4ecabf821451a59abd349755c8030c380d4a9e9f834"
+  },
+  {
+   "path": "data/ttdb/vehicles/ttdb_vehicles_loose_1_1.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 890206208,
+   "sha256": "a3aae83237fedd1f7c32e8ab2adc8bf9a87d8b019a2242c5181547714b00f8cc"
+  },
+  {
+   "path": "data/ttdb/vfx/ttdb_vfx.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 238897664,
+   "sha256": "7625184c4e9c899f3b708b88d61fa2e12b836db63640385cecd750cb30c8f26e"
+  },
+  {
+   "path": "data/ttdb/weapons/ttdb_weapons.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1421518080,
+   "sha256": "41c4fc92143fc26e44dcb4ca93142b914f9ac1188f9b53cbf8db27c6a97b6d4c"
+  },
+  {
+   "path": "data/ttdb/weapons/weapon_liveries.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 739758848,
+   "sha256": "7cae5a1ce890e7a4d452387f4dcb4ebde8e3e3b905409d7ed33903203a348ba5"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/peds/ttdb_peds.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 24529408,
+   "sha256": "b3514f9b1fe258141f7b5d840fc753e980a2af59749a1f8d4de0867e93cf5c97"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/props/ttdb_props.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 35286784,
+   "sha256": "eaf45801f0a0b0407ff41d5e840a27f9cfce144e1a4798ca293003a484e2c0ee"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/textures_loose.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 21081856,
+   "sha256": "81da4d1904dd038ea59fb5d7b851e2a15b1906a5ff3017f1bd15dd617d46c3dc"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/ui/ttdb_ui.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 4729600,
+   "sha256": "9df804569a50dfe7d1a0f8ef71fa9a117a370616159489e9028f5acfd5118d66"
+  },
+  {
+   "path": "pack/core_restofworld/data/ttdb/vfx/ttdb_vfx.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 3129600,
+   "sha256": "6434287056329e60a4ca7ae26fabf91dc3ccf3b738130033400fb88ab42da8cf"
+  },
+  {
+   "path": "pack/core_restofworld001/data/ttdb/ui/ttdb_ui.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 38656,
+   "sha256": "9bfb5f4b85be2f6d1d93b2ed83df94a2021346448816b61fd9c08d7d05b8a43c"
+  },
+  {
+   "path": "pack/shared_minigame000/data/ttdb/maps/ttdb_maps.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 193522176,
+   "sha256": "873a8c7634eacaa062a1bc48888908f3e2d3196159b9fa39e83eb6cfc18dbb06"
+  },
+  {
+   "path": "pack/shared_minigame000/data/ttdb/terrain/ttdb_terrain_image_based.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 1427712,
+   "sha256": "0354565963b8472bf2f606dc1a4089c14f45cb5ecd416984f5e4212009eb7e74"
+  },
+  {
+   "path": "pack/story000/data/ttdb/maps/ttdb_maps.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 697378560,
+   "sha256": "8e362c1f39383d6ff97eeffbf963602e9ed2e2b97b707e54a3884fe7c8dd408d"
+  },
+  {
+   "path": "pack/story000/data/ttdb/terrain/ttdb_terrain_image_based.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 222333440,
+   "sha256": "4794cbff80790c7a0b3d2959f3831b53e90c5b56b9bdb61814f98f29a4e4157f"
+  },
+  {
+   "path": "pack/story000/data/ttdb/vfx/ttdb_vfx.ttpf",
+   "label": "textures-recheck",
+   "start": 0,
+   "end": 3357184,
+   "sha256": "79612738f51faa724cb6d30ad5465419f3038d4b3498115ec1306b0ad7d71f1c"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-header",
+   "start": 0,
+   "end": 64,
+   "sha256": "fde8b9b73e988081947ec13331a3f0cbe5276749a06d0499e2ee91c5b8dd2c0f"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 110704,
+   "end": 4462850160,
+   "sha256": "b3fddda823e4dc24b013c954ca8b8148134117a4070ed9bf128169779e221782"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 4295078000,
+   "end": 8757817456,
+   "sha256": "8107d9c8096783d6daa71a1dd230e2fd94dfd579e703e352062564dae35d6b7e"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 8590045296,
+   "end": 13052784752,
+   "sha256": "0a28c849ff6368f65b2f1446fd0f957bdf77c8b9c9c6c1e502277ef105d447a4"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 12885012592,
+   "end": 17347752048,
+   "sha256": "ba12e1fd8da432c934592a798758656298f93c6411538dfb65235e13b93f0f81"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 17179979888,
+   "end": 21642719344,
+   "sha256": "bcf9fd56a1df039f36b30250c7dba5b2fb77c9ac5a710d138e8021ed375a05d1"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 21474947184,
+   "end": 25937686640,
+   "sha256": "41081445dddba3c158ff9fb80636d75c23363b7d22229175e8fbc77051b90996"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 25769914480,
+   "end": 30232653936,
+   "sha256": "a25cee11bf7d286e708f84f885e791814be84f6f97b028d03606c93239558f8d"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 30064881776,
+   "end": 34527621232,
+   "sha256": "5a7b713220eba4c2cdbd24a9c6f418e0fed36512bb19991059794caffd5b73d0"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 34359849072,
+   "end": 38822588528,
+   "sha256": "0d85f1b1a77f0f3e774f1c74963242cc692b417a4fe7f0940aee5d6403c6190a"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 38654816368,
+   "end": 43117555824,
+   "sha256": "1eeced3fd01448b8bd44206c5ecbcde14c7bcfdee93ac2e5bac54f22cc527ce4"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 42949783664,
+   "end": 47412523120,
+   "sha256": "9a06269b033f6cfd7b28c89187e60ffb58b04c44b9c193355fe7f32f36438437"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 47244750960,
+   "end": 51707490416,
+   "sha256": "adc44f454b1463b9685a03c388c73d4211e690792485e7c625a786c3eee2a4a7"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 51539718256,
+   "end": 56002457712,
+   "sha256": "4318f9713d0e68613e434980aa7455f8d0bc6db8eab014417b06e612af3c1796"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 55834685552,
+   "end": 60297425008,
+   "sha256": "4c0d44d7e644b10854aaf6ea98ba0b7c0b473ff8891cc06bb263c10b7baabacd"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 60129652848,
+   "end": 64592392304,
+   "sha256": "6cd345ecf25ac55ec88f508cc373c4c1dbc60bc89f84c2931930212877da33a7"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 64424620144,
+   "end": 68887359600,
+   "sha256": "77dbcfd0079a3107ab7fa2545726425417ddb9b53e9b101c27aca1d09aeb345a"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 68719587440,
+   "end": 73182326896,
+   "sha256": "83b60e1e9db5f6ae875b0a11d7b169c82e3b0472369c7de7bc78a6089bbc6b76"
+  },
+  {
+   "path": "levels.rpf",
+   "label": "levels-model-window",
+   "start": 73014554736,
+   "end": 76155065056,
+   "sha256": "0f182407aa84e36aa082235ca439a6e4d54cec11da9aa63a29dd8ab224dcdd2c"
+  },
+  {
+   "path": "audio.rpf",
+   "label": "audio.rpf-snapshot",
+   "start": 0,
+   "end": 28543454672,
+   "sha256": "883581135f2fb0ba7ec5068da6f89363951400d4d3f9c0b99c06ac7eef24134a"
+  },
+  {
+   "path": "anim.rpf",
+   "label": "anim.rpf-snapshot",
+   "start": 0,
+   "end": 4407626384,
+   "sha256": "7f5c53162ab66a8915dfc95ddf22aad9055635b6ddd3cffc40f431e24ea1c189"
+  },
+  {
+   "path": "movies.rpf",
+   "label": "movies.rpf-snapshot",
+   "start": 0,
+   "end": 8832481776,
+   "sha256": "a0647c0325333dd42b25b00d85ee9b3915a55ce99127b97ef00662ef4866cba4"
+  },
+  {
+   "path": "appxmanifest.xml",
+   "label": "startup-manifest",
+   "start": 0,
+   "end": 3394,
+   "sha256": "662a05d05f8449b94b2ffc052f2a9ad2c090b3708d5a274fc9b2db0e14b03a34"
+  },
+  {
+   "path": "MicrosoftGame.Config",
+   "label": "startup-configuration",
+   "start": 0,
+   "end": 2542,
+   "sha256": "d0d5e4777460045916046619cd0fd433aa251d4a74f4d91e83987588f907f80c"
+  },
+  {
+   "path": "layout_3202719e-b4b4-421c-9f8f-70d1c4a7d60b_xs.xml",
+   "label": "startup-layout",
+   "start": 0,
+   "end": 13698,
+   "sha256": "2eeb9b05047f83c8bc82fcee7646e7d675266f4545f940593a6b56e92358663d"
+  },
+  {
+   "path": "xbs_splash.png",
+   "label": "startup-splash",
+   "start": 0,
+   "end": 2507194,
+   "sha256": "0fa110ecac0a5fac8294921132cc8322440bdf93e74e723eb63eae0143d58e58"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+[workspace]
+resolver = "2"
+members = ["crates/xbs-core", "crates/xbs-ranges", "crates/xbs-report", "crates/xbs-app"]
+
+[workspace.package]
+version = "0.3.0"
+edition = "2021"
+license = "MIT"
+
+[workspace.dependencies]
+sha2 = "0.10.8"
+flate2 = { version = "1.0.35", default-features = false, features = ["rust_backend"] }
+serde = { version = "1.0.210", features = ["derive"] }
+serde_json = "1.0.128"
+quick-xml = "0.37.2"
+windows-sys = { version = "0.59.0", features = ["Win32_Foundation", "Win32_Storage_FileSystem", "Win32_System_IO", "Win32_System_Ioctl"] }
+eframe = { version = "0.31.1", default-features = false, features = ["glow", "default_fonts"] }
+rfd = "0.15.0"
+xbs-core = { path = "crates/xbs-core" }
+xbs-ranges = { path = "crates/xbs-ranges" }
+xbs-report = { path = "crates/xbs-report" }
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1
+strip = true

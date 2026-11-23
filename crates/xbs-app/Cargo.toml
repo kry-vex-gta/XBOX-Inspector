@@ -1,0 +1,22 @@
+[package]
+name = "xbs-app"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "XBOX-Inspector"
+path = "src/main.rs"
+
+[dependencies]
+xbs-core.workspace = true
+xbs-ranges.workspace = true
+xbs-report.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+eframe.workspace = true
+rfd.workspace = true
+flate2.workspace = true
+
+[dev-dependencies]
+ab_glyph = "0.2"
